@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **saubb/saubb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,20 +41,6 @@ Here are some ideas to get you started:
 ![mysql](https://skillicons.dev/icons?i=mysql)
 ![js](https://skillicons.dev/icons?i=js)
 
----
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=saubb&theme=tokyonight)
-
----
 
 ⭐ *Always learning and building new projects*

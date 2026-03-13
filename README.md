@@ -14,3 +14,47 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Saubiya Adnas Zafar Ahmad 👋
+
+🎓 IT Student at Shri Ramdeobaba College of Engineering  
+💻 Passionate about Machine Learning, Software Development & AI  
+🚀 Exploring Web Development, NLP and Intelligent Systems  
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/saubiya-adnas-6609932a0)
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:saubiyaadnas@gmail.com)
+
+---
+
+## 🚀 Tech Stack & Tools
+
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![c](https://skillicons.dev/icons?i=c)
+![git](https://skillicons.dev/icons?i=git)
+![github](https://skillicons.dev/icons?i=github)
+![vscode](https://skillicons.dev/icons?i=vscode)
+![mysql](https://skillicons.dev/icons?i=mysql)
+![js](https://skillicons.dev/icons?i=js)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=saubb&theme=tokyonight)
+
+---
+
+⭐ *Always learning and building new projects*

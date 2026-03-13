@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Saubiya Adnas Zafar Ahmad 👋
 
-🎓 IT Student at Shri Ramdeobaba College of Engineering  
-💻 Passionate about Machine Learning, Software Development & AI  
-🚀 Exploring Web Development, NLP and Intelligent Systems  
+ IT Student at Shri Ramdeobaba College of Engineering  
+ Passionate about Machine Learning, Software Development & AI  
+ Exploring Web Development, NLP and Intelligent Systems  
 
 ---
 
@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 
 
-⭐ *Always learning and building new projects*
+ *Always learning and building new projects*

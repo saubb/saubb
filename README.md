@@ -1,4 +1,4 @@
-# Hi, I'm Saubiya Adnas Zafaar Ahmad 
+# Hi, I'm Saubiya Adnas Zafar Ahmad 
 
 IT Student at Shri Ramdeobaba College of Engineering and Management  
 Passionate about Machine Learning, Software Development & AI  
